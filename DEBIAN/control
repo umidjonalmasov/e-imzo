@@ -1,0 +1,11 @@
+Package: e-imzo
+Version: 4.47
+Architecture: all
+Maintainer: Umidjon Almasov <umidjon@almasov.uz>
+Installed-Size: 13600
+Depends: default-jre
+Recommends: pcscd, pcsc-tools, libpcsclite1, libccid
+Section: web
+Priority: optional
+Homepage: https://e-imzo.uz/
+Description: Barcha davlat va xo'jalik boshqaruvi organlari, davlat hokimiyati mahalliy organlari va tijorat banklari rasmiy veb-saytlar va portallar foydalanuvchilarini elektron raqamli imzo orqali identifikasiyalash uchun dastur.
